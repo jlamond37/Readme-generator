@@ -1,22 +1,14 @@
-# Title
+# Read Me Generator
 
 ## Description
-description goes here
+
+Generate a read me for anyone to use to quickly make a read-me markdown file.
 
 
 ## Installation
-Install it!
-
+Go to <a> https://github.com/jlamond37/Readme-generator </a>.
+Click on Code and copy the SSH key to pull from git. <img src="assets/github.png">
 
 ## Usage
-Instructions here
+Go to <a> https://youtu.be/1rZJueayvyU </a>
 
-
-## Credits
-Collabbb
-
-## License
-cc-by-4.0
-
-## Questions
-jlamond37 [GitHub profile](https://github.com/jlamond37/Readme-generator)
